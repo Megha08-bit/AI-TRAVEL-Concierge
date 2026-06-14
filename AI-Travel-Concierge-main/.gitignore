@@ -1,0 +1,28 @@
+# API Keys - NEVER commit these!
+.env
+*.env
+secrets.txt
+secrets.toml
+.streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Database (auto-created, no need to track)
+*.db
+*.sqlite
+*.sqlite3
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db

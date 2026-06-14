@@ -1,0 +1,30 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# LLM Providers
+langchain-google-genai
+langchain-groq
+google-generativeai
+
+# Embeddings & Vector Store
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+
+# APIs
+google-search-results
+requests
+streamlit
+
+# UI
+gradio
+
+# Database
+# sqlite3 is built into Python - no install needed
+
+# Utilities
+psutil
+python-dotenv
